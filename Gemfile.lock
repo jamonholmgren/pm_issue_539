@@ -1,5 +1,7 @@
-PATH
-  remote: ../ProMotion
+GIT
+  remote: git://github.com/clearsightstudio/ProMotion.git
+  revision: ebbbea69f52bf0a69c32a14f597c56e77346cd91
+  branch: versionbranch-2.0.1
   specs:
     ProMotion (2.0.0)
       methadone (~> 1.4)
