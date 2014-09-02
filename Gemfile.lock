@@ -1,0 +1,19 @@
+PATH
+  remote: ../ProMotion
+  specs:
+    ProMotion (2.0.0)
+      methadone (~> 1.4)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    methadone (1.7.0)
+      bundler
+    rake (10.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ProMotion!
+  rake
